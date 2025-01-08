@@ -48,3 +48,5 @@ export default tseslint.config({
   },
 })
 ```
+
+firebase deploy --only hosting:cgaritac
