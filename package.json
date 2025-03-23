@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "firebase": "^11.1.0",
+    "portfolio2.0": "file:",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
   },
